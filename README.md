@@ -29,7 +29,7 @@ Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.i
 
 [//]: # (Image References)
 
-[image1]: ./ImagesforReadMe/1random12color.png "12 Color Images"
+[image1]: ./ImagesforReadMe/1random12color.jpg "12 Color Images"
 [image2]: ./ImagesforReadMe/2trainingclass.png "Training Plot"
 [image3]: ./ImagesforReadMe/3validclass.png "Valid Plot"
 [image4]: ./ImagesforReadMe/4testclass.png "Test Plot"
