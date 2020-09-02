@@ -11,21 +11,21 @@
 The goals / steps of this project are the following:
 * Step 0:
 
-  ** Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+  - Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
 * Step 1:
 
--Explore, summarize and visualize the data set
+  - Explore, summarize and visualize the data set
 
 * Step 2:
 
--Design, train and test a model architecture
+  - Design, train and test a model architecture
 
 * Step 3:
 
--Use the model to make predictions on new images (German Traffic Signs from google.com)
+  - Use the model to make predictions on new images (German Traffic Signs from google.com)
 
--Analyze the softmax probabilities of the new images
+  - Analyze the softmax probabilities of the new images
 
 [//]: # (Image References)
 
