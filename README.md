@@ -29,7 +29,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./Images_forReadMe/1random12color.jpg "12 Color Images"
+[image1]: ./Images_forReadMe/1random12color.png "12 Color Images"
 [image2]: ./Images_forReadMe/2trainingclass.png "Training Plot"
 [image3]: ./Images_forReadMe/3validclass.png "Valid Plot"
 [image4]: ./Images_forReadMe/4testclass.png "Test Plot"
@@ -68,7 +68,7 @@ I used the numpy library to calculate summary statistics of the traffic signs da
 
 #### 2. An exploratory visualization of the dataset.
 
-- Here is 12 random images from the data set with its respective labels:
+- Here are 12 random images from the data set with its respective labels:
 
  ![alt text][image1]
 
