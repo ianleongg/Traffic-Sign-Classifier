@@ -29,21 +29,21 @@ Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.i
 
 [//]: # (Image References)
 
-[image1]: ./ImagesforReadMe/1random12color.jpg "12 Color Images"
-[image2]: ./ImagesforReadMe/2trainingclass.png "Training Plot"
-[image3]: ./ImagesforReadMe/3validclass.png "Valid Plot"
-[image4]: ./ImagesforReadMe/4testclass.png "Test Plot"
-[image5]: ./ImagesforReadMe/5random12grey.png "12 Grey Images"
-[image6]: ./ImagesforReadMe/6realwithcolorlabel.png "Real World Images"
-[image7]: ./ImagesforReadMe/7softmax.png "Softmax 1"
-[image8]: ./ImagesforReadMe/8softmax.png "Softmax 2"
-[image9]: ./ImagesforReadMe/9softmax.png "Softmax 3"
-[image10]: ./ImagesforReadMe/10softmax.png "Softmax 4"
-[image11]: ./ImagesforReadMe/11softmax.png "Softmax 5"
-[image12]: ./ImagesforReadMe/12softmax.png "Softmax 6"
-[image13]: ./ImagesforReadMe/lenet.png "LeNet"
-[image14]: ./ImagesforReadMe/visualize_cnn.png "Visualize cnn"
-[image15]: ./ImagesforReadMe/learning.png "Learning Statistics"
+[image1]: ./Images_forReadMe/1random12color.jpg "12 Color Images"
+[image2]: ./Images_forReadMe/2trainingclass.png "Training Plot"
+[image3]: ./Images_forReadMe/3validclass.png "Valid Plot"
+[image4]: ./Images_forReadMe/4testclass.png "Test Plot"
+[image5]: ./Images_forReadMe/5random12grey.png "12 Grey Images"
+[image6]: ./Images_forReadMe/6realwithcolorlabel.png "Real World Images"
+[image7]: ./Images_forReadMe/7softmax.png "Softmax 1"
+[image8]: ./Images_forReadMe/8softmax.png "Softmax 2"
+[image9]: ./Images_forReadMe/9softmax.png "Softmax 3"
+[image10]: ./Images_forReadMe/10softmax.png "Softmax 4"
+[image11]: ./Images_forReadMe/11softmax.png "Softmax 5"
+[image12]: ./Images_forReadMe/12softmax.png "Softmax 6"
+[image13]: ./Images_forReadMe/lenet.png "LeNet"
+[image14]: ./Images_forReadMe/visualize_cnn.png "Visualize cnn"
+[image15]: ./Images_forReadMe/learning.png "Learning Statistics"
 
 ---
 ### README
@@ -52,7 +52,7 @@ Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.i
 
 - Here is a link to my [project code](https://github.com/ianleongg/Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) and the below image an example of the predictions on an image from google images.
 
-![alt text](image9)
+![alt text][image9]
 
 ### Data Set Summary, Exploration & Visualization
 
