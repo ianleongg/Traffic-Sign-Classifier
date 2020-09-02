@@ -52,7 +52,7 @@ Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.i
 
 - Here is a link to my [project code](https://github.com/ianleongg/Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) and the below image an example of the predictions on an image from google images.
 
-![alt text][image9]
+![alt text](image9)
 
 ### Data Set Summary, Exploration & Visualization
 
