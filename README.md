@@ -11,7 +11,7 @@
 The goals / steps of this project are the following:
 * Step 0:
 
-Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+  ** Load the GTSRB data set from [German Traffic Sign Benchmarks](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
 * Step 1:
 
