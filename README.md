@@ -174,6 +174,7 @@ The images might be hard to classify as they were not cropped appropriately but 
 Here are the results of the prediction:
 
 Predictions from model: [11, 1, 25, 34, 12, 17]
+
 Image Labels: [11, 1, 25, 34, 12, 17]
 
 The above labels correspond to the ClassId in [signnames.csv](https://github.com/ianleongg/Traffic-Sign-Classifier/blob/master/signnames.csv)
