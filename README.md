@@ -70,7 +70,7 @@ I used the numpy library to calculate summary statistics of the traffic signs da
 
 - Here is 12 random images from the data set with its respective labels:
 
-![alt text][image1]
+ ![alt text][image1]
 
 - Here is a histogram distribution of *Training Data* vs Classes:
 
