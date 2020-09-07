@@ -1,4 +1,4 @@
-# **Traffic Sign Classifier* 
+# **Traffic Sign Classifier** 
 
 ## Deep Learning to Build a Traffic Sign Recognition Classifier 
 
